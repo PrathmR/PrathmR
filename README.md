@@ -32,6 +32,17 @@
 #### Editor / IDE I ♥
 <p align="left">  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-pycharm.svg" alt="pycharm" title="pycharm" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" title="eclipse" width="50" height="50"/></p>
 
+## Github Stats  
+  <div align="center">
+        <p>
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmR&show_icons=true&locale=en&layout=compact" alt="PrathmR" />
+        </p>
+        <p>
+            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmR&show_icons=true&locale=en" alt="PrathmR" />
+        </p>
+    </div>
+</div>
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
