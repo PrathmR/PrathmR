@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Prathmesh Redekar </font></h1>
-<h3 align="center"><font face="Arial"><a href="[https://www.linkedin.com/in/prathmesh-redekar/](https://www.linkedin.com/in/prathmesh-redekar-b15b00295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank" rel="noreferrer">I am</a> a passionate third year Computer Scinece - AIML Engineer from India, Learning on FullStack and agentic AI now. Feel free to reach out for any related Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/prathmesh-redekar" target="_blank" rel="noreferrer">I am</a> a passionate third year Computer Scinece - AIML Engineer from India, Learning on FullStack and agentic AI now. Feel free to reach out for any related Projects.</font></h3>
 
 
 <!-- GIF -->
