@@ -43,6 +43,19 @@
     </div>
 </div>
 
+## Stars and stats
+<table align="center">
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathmR&theme=white&hide_border=false&border_radius=4.5&locale=en" />
+  </td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrathmR&row=1&column=7&theme=darkhub" />
+</p>
+
+
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
 <p align="left">
