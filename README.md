@@ -2,6 +2,17 @@
 <h1 align="center"><font face="Arial">Hi 👋, I'm Prathmesh Redekar </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/prathmesh-redekar" target="_blank" rel="noreferrer">I am</a> a passionate third year Computer Scinece - AIML Engineer from India, Learning on FullStack and agentic AI now. Feel free to reach out for any related Projects.</font></h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrathmR&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Profile views" />
+  <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Wakatime" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moksh-sharma-62b1191a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PrathmR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:prathmeshredekar16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/moksh3341/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
