@@ -7,12 +7,7 @@
   <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Wakatime" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathmesh-redekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/PrathmR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:prathmeshredekar16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nameisprathm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
@@ -48,23 +43,22 @@
         <p>
             <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmR&show_icons=true&locale=en&layout=compact" alt="PrathmR" />
         </p>
-        <p>
+        <!-- <p>
             &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmR&show_icons=true&locale=en" alt="PrathmR" />
-        </p>
+        </p> -->
     </div>
 </div>
 
-## Stars and stats
-<table align="center">
+<!-- <table align="center">
   <td>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathmR&theme=white&hide_border=false&border_radius=4.5&locale=en" />
   </td>
 </tr>
-</table>
+</table> 
 
-<p align="center">
+=<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrathmR&row=1&column=7&theme=darkhub" />
-</p>
+</p>  -->
 
 
 <!-- Contact Section -->
@@ -73,4 +67,10 @@
 </p>
 
 - 📫 How to reach me **[prathmeshredekar16@gmail.com](mailto:prathmeshredekar16@gmail.com)**
+            <p align="center">
+  <a href="https://www.linkedin.com/in/prathmesh-redekar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/PrathmR"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:prathmeshredekar16@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nameisprathm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>         
 
