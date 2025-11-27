@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/prathmesh-redekar" target="_blank" rel="noreferrer">I am</a> a passionate third year Computer Scinece - AIML Engineer from India, Learning on FullStack and agentic AI now. Feel free to reach out for any related Projects.</font></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrathmR&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PrathmR&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="" /> <!-- removed the alt attribute -->
   <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Wakatime" /></a>
 </p>
 
