@@ -41,24 +41,23 @@
 ## Github Stats  
   <div align="center">
         <p>
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmR&show_icons=true&locale=en&layout=compact" alt="PrathmR" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmR&show_icons=true&locale=en&layout=compact" alt="" />
         </p>
-        <!-- <p>
-            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmR&show_icons=true&locale=en" alt="PrathmR" />
-        </p> -->
+        <p>
+            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmR&show_icons=true&locale=en" alt="" />
+        </p>
     </div>
 </div>
 
-<!-- <table align="center">
+ <table align="center">
   <td>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=PrathmR&theme=white&hide_border=false&border_radius=4.5&locale=en" />
   </td>
 </tr>
 </table> 
-
-=<p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PrathmR&row=1&column=7&theme=darkhub" />
-</p>  -->
+</p>  
 
 
 <!-- Contact Section -->
