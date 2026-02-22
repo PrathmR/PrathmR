@@ -1,22 +1,7 @@
-<!-- Header Section -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=200&section=header&text=Prathmesh%20Redekar&fontColor=cdd6f4&fontSize=50&fontAlignY=35&desc=Builder%20%7C%20Breaker%20%7C%20Problem%20Solver&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&repeat=true&width=700&height=60&lines=%F0%9F%94%A7+I+build+things+that+work;%F0%9F%92%A5+Break+them+on+purpose;%E2%9C%A8+And+fix+them+properly" alt="Typing SVG" />
-
-<br/>
 
 </div>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Prathmesh Redekar</font></h1>
 
----
-
-
-
-</div>
-<h1 align="center"><font face="Arial">Hi 👋, I'm Prathmesh Redekar </font></h1>
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/prathmesh-redekar" target="_blank" rel="noreferrer">I am</a> a passionate third year Computer Scinece - AIML Engineer from India, Learning on FullStack and agentic AI now. Feel free to reach out for any related Projects.</font></h3>
 
 <p align="center">
@@ -92,9 +77,8 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=yashshinde0080&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:45475a,50:313244,100:1e1e2e&height=120&section=footer&animation=fadeIn" width="100%" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45475a,50:313244,100:1e1e2e&height=120&section=footer&animation=fadeIn" width="100%" /> -->
 
 </div>
 
