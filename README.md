@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=PrathmR&label=Profile%20views&color=0eed4a&style=for-the-badge" alt="" /> <!-- removed the alt attribute -->
   <a href="https://wakatime.com/@6c4560a5-693d-422a-a2c0-518eec177837"><img src="https://wakatime.com/badge/user/6c4560a5-693d-422a-a2c0-518eec177837.svg?style=for-the-badge" alt="Wakatime" /></a>
 </p>
-
+ 
 
 
 <!-- GIF -->
